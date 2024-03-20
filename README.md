@@ -19,3 +19,6 @@ How to Play:
 Download or copy all the project files.
 Open index.html in your web browser to try out the simple mode. Click that button and see the colors fly!
 (For the future programmers) Feel free to open hex.js in a code editor and implement the logic for the hex mode. You can use the provided app.js file as a reference.
+![Sceenshot1](<Screenshot 2024-03-20 at 3.49.19 PM.png>)
+
+![Screenshot2](<Screenshot 2024-03-20 at 3.49.27 PM.png>)
